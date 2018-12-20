@@ -1,0 +1,469 @@
+﻿{
+  "qna": [
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "The business must be small by SBA size standards and a for-profit business.   SBA will look at repayment ability, good character, management capability, and collateral. For loans made with SBA’s assistance, the Agency has credit and policy requirements that all applicants must meet. Among those are an adequate equity investment in the business and evidence of ability to repay the loan from earnings.  With the exception of some child care businesses, all businesses must be for-profit.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>The business applying for a loan must be a small for-profit business (with the exception of some child care businesses) that has good repayment ability, character, management capability, and collateral. For more information go to: </speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.004",
+      "type": "qna",
+      "q": [
+        "What are the requirements for an SBA loan?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Please contact the Certify Team at help@certify.sba.gov.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>Please contact the Certify Team at help@certify.sba.gov.</speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.009",
+      "type": "qna",
+      "q": [
+        "I am having problems with uploading documents for the WOSB/EDWOSB program who do I contact?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Please contact your lender for questions on your SBA loan.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>Please contact your lender for questions on your SBA loan.</speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.012",
+      "type": "qna",
+      "q": [
+        "I have questions on an existing SBA Loan?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Please contact the Certify Team at help@certify.sba.gov.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "QnaBot.014",
+      "type": "qna",
+      "q": [
+        "I am having problems with the 8(a) application who do I contact?"
+      ]
+    },
+    {
+      "a": "When national emergencies or natural disasters occur, supplies and services need to be rushed to affected areas quickly. Small businesses can contract with the federal government to assist in relief and recovery efforts following a major disaster.",
+      "qid": "QnaBot.015",
+      "type": "qna",
+      "q": [
+        "I want to find out about disaster response contracts."
+      ]
+    },
+    {
+      "a": "Search for declaration, then click on Locations to Receive Assistance. This changes throughout the disaster, and provides the deadline date to file, the primary counties, the recovery centers and the days and hours open.  https://disasterloan.sba.gov/ela/Declarations/Index",
+      "qid": "19",
+      "type": "qna",
+      "q": [
+        "When is the recovery center open?"
+      ]
+    },
+    {
+      "a": "The SBA offers disaster assistance in the form of low-interest loans to businesses, renters, and homeowners located in regions affected by declared disasters.",
+      "qid": "22",
+      "type": "qna",
+      "q": [
+        "Who can use an SBA disaster loan?"
+      ]
+    },
+    {
+      "a": "Please be patient, help me figure out what you need, ask another question?",
+      "qid": "Customer.001",
+      "type": "qna",
+      "q": [
+        "Customer Service Please",
+        "Agent",
+        "Customer Service"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Please contact the Hubzone Team at hubzone@sba.gov.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": ""
+      },
+      "l": "",
+      "qid": "Qnabot.010",
+      "type": "qna",
+      "q": [
+        "I am having problems with the Hubzone Application who do I contact?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "The Small Business Administration extends financial assistance to for-profit small businesses through its lending partners, such as banks, certified development companies, and micro loan intermediaries.  The Small Business Administration SBA itself does not offer direct lending.  Most SBA loan programs are unable to provide 100% financing.  Everything in this process is handled between you and the lender.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>The Small Business Administration extends financial assistance to for-profit small businesses</speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.003",
+      "type": "qna",
+      "q": [
+        "How do I apply for an SBA loan?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Astro uses Amazon Lex and Alexa to provide a natural language interface for your FAQ knowledge base, so your users can just ask a question and get a quick and relevant answer.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>The Q and A Bot uses Amazon Lex and Alexa to provide a natural language interface for your FAQ knowledge base.</speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.001",
+      "type": "qna",
+      "q": [
+        "What is Astro"
+      ]
+    },
+    {
+      "a": "Visit https://disasterloan.sba.gov/ela/Home/Contact",
+      "qid": "21",
+      "type": "qna",
+      "q": [
+        "Who do I contact if I need assistance?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "To select an NAICS Code for your company view the size standard table at www.sba.gov/size.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>To select an NAICS Code for your company view the size standard table at www.sba.gov/size.</speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.007",
+      "type": "qna",
+      "q": [
+        "What is my NAICS Code?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "The Small Business Administration does not have grants to start or expand a small business; we are not aware of anyone who does.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>The Small Business Administration does not have grants to start or expand a small business; we are not aware of anyone who does.</speak>"
+      },
+      "l": "",
+      "qid": "Qnabot.006",
+      "type": "qna",
+      "q": [
+        "How do I get a grant to start my business?"
+      ]
+    },
+    {
+      "a": "Search for declaration, then click on Locations to Receive Assistance. This changes throughout the disaster, and provides the deadline date to file, the primary counties, the recovery centers and the days and hours open.  https://disasterloan.sba.gov/ela/Declarations/Index",
+      "qid": "20",
+      "type": "qna",
+      "q": [
+        "What is the filling deadline date?"
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "Please contact our Disaster team at: Phone: 1-800-659-2955 or (TTY) (800) 877-8339 or Email: disastercustomerservice@sba.gov.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>Please contact our Disaster team at: Phone: 1-800-659-2955 or (TTY) (800) 877-8339 or Email: disastercustomerservice@sba.gov.</speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.011",
+      "type": "qna",
+      "q": [
+        "I have questions regarding a Disaster Loan."
+      ]
+    },
+    {
+      "a": "On a federal level, these are self certifications.  Your company must be 51% or more owned and controlled by one or more of the entities in which it is self-certifying.  You can self-certify in the System for Awards Management (SAM) at www.sam.gov.",
+      "alt": {
+        "ssml": "<speak>Your company must be 51% or more owned and controlled by one or more of the entities in which it is self-certifying.  You can self-certify in the System for Awards Management (SAM) at www.sam.gov.</speak>"
+      },
+      "qid": "QnaBot.013",
+      "type": "qna",
+      "q": [
+        "How do I certify my business as small, minority owned, veteran owned, etc.?"
+      ]
+    },
+    {
+      "a": "Business Physical Disaster Loans. Economic Injury Disaster Loans. Home Disaster Loans. Search for a disaster declaration and its corresponding fact sheet at https://disasterloan.sba.gov/ela/Declarations/Index",
+      "qid": "16",
+      "type": "qna",
+      "q": [
+        "What types of disaster loans are available?"
+      ]
+    },
+    {
+      "a": "Search for declaration, then click on Locations to Receive Assistance. This changes throughout the disaster, and provides the deadline date to file, the primary counties, the recovery centers and the days and hours open.  https://disasterloan.sba.gov/ela/Declarations/Index",
+      "qid": "18",
+      "type": "qna",
+      "q": [
+        "Where do I find a recovery center near me?"
+      ]
+    },
+    {
+      "qid": "Feedback",
+      "a": "Unable to leave feedback at the moment...",
+      "r": {},
+      "type": "qna",
+      "l": "QNA:ExamplePYTHONLambdaFeedback",
+      "q": [
+        "Feedback",
+        "That is wrong",
+        "that is right",
+        "leave feedback",
+        "good answer",
+        "bad answer"
+      ]
+    },
+    {
+      "a": "Is this a loan for a person or a small business?",
+      "qid": "QnaBot.002",
+      "type": "qna",
+      "q": [
+        "I need a loan."
+      ]
+    },
+    {
+      "a": "Some of the most frequent reasons a business will be small and not show up as small in SAM are: The company has been listed as tax exempt, they are a non-profit business, they did not submit the correct revenue or number of employees, and they are not small for the specific NAICS Codes they have selected.",
+      "qid": "Qnabot.008",
+      "type": "qna",
+      "q": [
+        "I am a small business, why is my business not showing up as small in SAM?"
+      ]
+    },
+    {
+      "a": "Search for declaration and click on Locations to Receive Assistance. This changes throughout the disaster, and provides the deadline date to file, the primary counties, the recovery center and the days and hours open.",
+      "qid": "17",
+      "type": "qna",
+      "q": [
+        "What counties are eligible?"
+      ]
+    },
+    {
+      "a": "The U. S. Small Business Administration (SBA) provides low-interest, long-term disaster loans to businesses of all sizes, private non-profit organizations, homeowners, and renters to repair or replace uninsured/underinsured disaster damaged property. SBA disaster loans offer an affordable way for individuals and businesses to recover from declared disasters.",
+      "qid": "23",
+      "type": "qna",
+      "q": [
+        "Tell me about SBA Disaster Loans."
+      ]
+    },
+    {
+      "args": [
+        ""
+      ],
+      "next": "",
+      "a": "For information on how to start your business visit our website at www.sba.gov and click on Business Guide.",
+      "r": {
+        "buttons": [
+          {
+            "text": "",
+            "value": ""
+          }
+        ],
+        "subTitle": "",
+        "imageUrl": "",
+        "title": "",
+        "text": "",
+        "url": ""
+      },
+      "t": "",
+      "alt": {
+        "markdown": "",
+        "ssml": "<speak>For information on how to start your business visit our website at www.sba.gov and click on Business Guide.</speak>"
+      },
+      "l": "",
+      "qid": "QnaBot.005",
+      "type": "qna",
+      "q": [
+        "How do I get my business started?"
+      ]
+    }
+  ]
+}
