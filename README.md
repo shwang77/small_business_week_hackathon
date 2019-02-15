@@ -1,2 +1,6 @@
 # small_business_week_hackathon
-Team Astro, repo for preserving CloudFormation Template 
+Team Astro, repo for preserving CloudFormation Template and Lambda function code.
+
+For the AWS Small Business Week Hackathon, our task was to assist the Small Business Association (SBA) improve the quality of service, responsivenss and ease of use of their call centers. In particular, we focused on a project which would present an idea that would be useful for the SBA in approaching Disaster Response scenarios where the volume of incoming traffic can exponentially grow overnight. We began development of a Caller Sentiment Analysis data pipeline as a way to extract information about the callers emotions and intentions and give the SBA possible insights into which topics or perhaps Telephone IVR selections may require attention. As a proof of concept, we envisioned storing information in Elastic Search and displaying topics or phrases with predictions of negative emotions (such as 'angry' or 'sad') to appear larger and centered in a Word cloud. 
+
+Starter template code for recording audio to text and feeding the data through Kinesis to Elastic Search (ES) was provided (https://github.com/aws-samples/aws-ai-qna-bot). Leveraging this starter code we inserted a custom Lambda function into the Firehose workflow as a Data Transformation. Within, this Lambda we made use of Comprehend to obtain caller sentiment predictions and added this information to be stored in ES.   
